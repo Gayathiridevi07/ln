@@ -2,7 +2,11 @@
 
 this is a hari
 
+<<<<<<< HEAD
 test form hgjhgkhk
+=======
+test form 37864287492s
+>>>>>>> 5dd0ae8e6543f26b3ae24f5f4a62c6afa0bc4546
 
 
 
